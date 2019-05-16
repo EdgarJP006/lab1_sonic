@@ -1,5 +1,3 @@
-UNIVERSIDAD DE PANAMÁ
-FACULTAD DE INFORMÁTICA, ELECTRÓNICA Y COMUNICACIONES
 Laboratorio de Inteligencia Arti-ficial
 
 Nombre: Edgar Pérez	
@@ -15,5 +13,6 @@ Considere:
 
 
 Los datos CSV estan separado en dos archivos uno con los datos de rew,done,action,info y el de observation estan en un archivo aparte.
-
 El archivo con el controlador de sonic es el sonic1.py
+
+
