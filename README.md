@@ -15,4 +15,9 @@ Considere:
 Los datos CSV estan separado en dos archivos uno con los datos de rew,done,action,info y el de observation estan en un archivo aparte.
 El archivo con el controlador de sonic es el sonic1.py
 
+GitHub
+https://github.com/EdgarJP006/lab1_sonic/blob/master/sonic1.py
+
+Video:
+https://youtu.be/lleuUEzLrMA
 
