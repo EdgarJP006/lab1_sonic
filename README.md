@@ -1,4 +1,4 @@
-Laboratorio de Inteligencia Arti-ficial
+Laboratorio de Inteligencia Artificial
 
 Nombre: Edgar Pérez	
 C.I.D.= 8-803-1172
